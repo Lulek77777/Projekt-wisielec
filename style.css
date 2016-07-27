@@ -3,6 +3,7 @@ body
 	font-size: 28pt;
 	color: lightgray;
 	background-color: #000000;
+    font-family: 'Oxygen Mono';
 }
 
 #pojemnik
@@ -41,7 +42,7 @@ body
 .litera
 {
     width: 30px;
-    height: 30px;
+    height: 40px;
     text-align: center;
     padding: 5px;
     margin: 5px;
