@@ -56,3 +56,15 @@ body
     color: white;
     border: 3px sloid white;
 }
+
+.reset
+{
+    color: green;
+    cursor: pointer;
+    font-size: 48px;   
+}
+
+.reset:hover
+{
+    color: white;
+}
